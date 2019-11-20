@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL", "DLL.vcxproj", "{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		lib-debug|Win32 = lib-debug|Win32
+		lib-release|Win32 = lib-release|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}.Debug|Win32.Build.0 = Debug|Win32
+		{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}.lib-debug|Win32.ActiveCfg = lib-debug|Win32
+		{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}.lib-debug|Win32.Build.0 = lib-debug|Win32
+		{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}.lib-release|Win32.ActiveCfg = lib-release|Win32
+		{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}.lib-release|Win32.Build.0 = lib-release|Win32
+		{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}.Release|Win32.ActiveCfg = Release|Win32
+		{135BEF34-1B14-4476-A8ED-8929BCFCA5E1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
